@@ -1,10 +1,10 @@
-# movie-app
+# movies-app
 
     Responsive React Movies App With API
 
 # Link of Website
 
-    https://ahmedtarekelhelw.github.io/movie-app
+    https://ahmedtarekelhelw.github.io/movies-app
 
 # Resource
 
@@ -12,8 +12,8 @@
 
 # Preview
 
-!["Responsive React Movies App With API"](https://user-images.githubusercontent.com/67447840/136721135-f64988cf-af31-495f-988c-c24ab10cbade.png "Responsive React Movies App With API")
+![React Movies](https://user-images.githubusercontent.com/76922296/156870941-95775569-4d1d-40a1-80b5-d44cad37de81.png)
 
-!["Responsive React Movies App With API"](https://user-images.githubusercontent.com/67447840/136721056-733be8a6-7af6-424b-a74e-eb65980a5464.png "Responsive React Movies App With API")
+![React Movies](https://user-images.githubusercontent.com/76922296/156870951-c21df3ee-75d0-4bbf-9b61-cb31a838be51.png)
 
-!["Responsive React Movies App With API"](https://user-images.githubusercontent.com/67447840/136721118-cf5c59d2-31ff-4b06-86cb-262dd1b655fc.png "Responsive React Movies App With API")
+![React Movies](https://user-images.githubusercontent.com/76922296/156870957-d83ad1e5-10b8-41a5-954c-d2d50b190433.png)

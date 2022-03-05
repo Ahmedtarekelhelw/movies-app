@@ -1,6 +1,6 @@
 import React, { useRef, useEffect } from "react";
 
-import { Link, NavLink, useLocation } from "react-router-dom";
+import { Link, NavLink } from "react-router-dom";
 
 import "./style.scss";
 
@@ -9,7 +9,7 @@ import logo from "../../assets/tmovie.png";
 const headerNav = [
   {
     display: "Home",
-    path: "/",
+    path: "/movies-app",
   },
   {
     display: "Movies",
