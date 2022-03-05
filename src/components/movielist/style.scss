@@ -1,0 +1,21 @@
+@use "../../scss/breakpoint" as *;
+
+.wrapper {
+  min-width: 15%;
+  margin-right: 10px;
+  @include tablet {
+    min-width: 30%;
+  }
+
+  @include mobile {
+    min-width: 40%;
+  }
+}
+
+.container-slide {
+  display: flex;
+}
+
+.movie-list {
+  overflow: hidden;
+}
