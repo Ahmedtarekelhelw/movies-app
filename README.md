@@ -12,8 +12,9 @@
 
 # Preview
 
-!["Responsive React Movies App With API"](https://user-images.githubusercontent.com/67447840/136721135-f64988cf-af31-495f-988c-c24ab10cbade.png "Responsive React Movies App With API")
+![screencapture-localhost-3000-2022-03-05-08_09_44](https://user-images.githubusercontent.com/76922296/156870941-95775569-4d1d-40a1-80b5-d44cad37de81.png)
 
-!["Responsive React Movies App With API"](https://user-images.githubusercontent.com/67447840/136721056-733be8a6-7af6-424b-a74e-eb65980a5464.png "Responsive React Movies App With API")
+![screencapture-localhost-3000-movie-2022-03-05-08_10_24](https://user-images.githubusercontent.com/76922296/156870951-c21df3ee-75d0-4bbf-9b61-cb31a838be51.png)
 
-!["Responsive React Movies App With API"](https://user-images.githubusercontent.com/67447840/136721118-cf5c59d2-31ff-4b06-86cb-262dd1b655fc.png "Responsive React Movies App With API")
+![screencapture-localhost-3000-movie-646385-2022-03-05-08_12_50](https://user-images.githubusercontent.com/76922296/156870957-d83ad1e5-10b8-41a5-954c-d2d50b190433.png)
+
