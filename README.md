@@ -4,7 +4,7 @@
 
 # Link of Website
 
-    https://ahmedtarekelhelw.github.io/movies-app
+    https://awesome-movies-app.netlify.app/#/movies-app
 
 # Resource
 
