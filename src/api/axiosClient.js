@@ -13,4 +13,6 @@ const axiosClient = axios.create({
     queryString.stringify({ ...param, api_key: apiConfig.apiKey }),
 });
 
+axiosClient.interceptors.request.use(async (req) => req);
+
 export default axiosClient;
