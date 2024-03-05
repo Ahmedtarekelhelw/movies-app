@@ -2,10 +2,6 @@
 
     Responsive React Movies App With API
 
-# Link of Website
-
-    https://awesome-movies-app.netlify.app/#/movies-app
-
 # Resource
 
     API: https://www.themoviedb.org/
